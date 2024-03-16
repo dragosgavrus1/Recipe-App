@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    // other compiler options...
+  },
+  "include": ["/backend/src/**/*.ts"], // adjust the path to your TypeScript files,
+  "exclude": ["node_modules"]
+}
